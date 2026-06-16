@@ -5,7 +5,7 @@ text-align: center
 }
 
 body {
-  color: #1b2845;
+ background-color : #397899;
   margin: 0;
   padding: 0;
 }
@@ -18,14 +18,15 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #1b2845;
+  background-color: #004e7a;
   display: flex;
   justify-content: center;
 }
 
+
 ul li a {
   display: block;
-  color: white;
+  color: black;
   padding: 14px 16px;
   text-decoration: none;
 }
