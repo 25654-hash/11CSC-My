@@ -5,7 +5,7 @@ text-align: center
 }
 
 body {
- background-color : #397899;
+ background-color :#397899;
   margin: 0;
   padding: 0;
 }
@@ -21,7 +21,7 @@ ul {
   list-style-type: none;
   padding: 0;
     margin: 0;
-  background-color: #004e7a;
+  background-color: #154e6e;
   display: flex;
   justify-content: center;
 }
@@ -45,7 +45,7 @@ p{
     font-family: monospace;
     font-size: x-large;
     text-align: center;
-    margin: 20px
+    margin: 40px
 
 ;
 }
