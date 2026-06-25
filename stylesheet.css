@@ -54,9 +54,6 @@ div {
   justify-content: center;
 }
 
-img {
-  width: 50%;
-}
 footer {
     font-family:"Times New Roman", Times, serif;
     position: fixed;
@@ -76,6 +73,24 @@ pre{
     text-align: left;
     margin: 140px
 }
+.responsive {
+    width: 30%;
+    height: 50%;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
 
 
 
+img{
+
+    width: 2%;
+    height: 4%;
+    text-align: right;
+}
